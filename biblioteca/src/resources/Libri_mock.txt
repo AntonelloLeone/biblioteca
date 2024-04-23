@@ -1,0 +1,11 @@
+1,B,Uccidete il Mockingbird,Harper Lee
+2,AB,1984,George Orwell,420
+3,B,Orgoglio e Pregiudizio,Jane Austen
+4,B,Il Grande Gatsby,F. Scott Fitzgerald
+5,AB,Moby Dick,Herman Melville,960
+6,B,Guerra e Pace,Leo Tolstoy
+7,AB,Il Giovane Holden,J.D. Salinger,300
+8,B,Jane Eyre,Charlotte Brontë
+9,B,Fattoria degli animali,George Orwell
+10,B,Viaggio al centro della terra,Jules Verne
+11,B,Candide,Voltaire
